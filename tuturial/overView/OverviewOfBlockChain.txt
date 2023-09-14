@@ -1,0 +1,92 @@
+BitCoin:- {
+    Bitcoin is a decentralized digitsl currency the=at can be the
+transfred on the peer to peer bitcoin network
+}
+
+Ethereum{
+    Ethereum is a decentralized open source platform based on blockchain
+    domain, used to run smart contract i.e application that 
+    executes the program exactly as it was programing without the possibility of any fraud
+
+}
+
+Miners{
+    Miners in blockchain area the peers in varios network do transaction 
+    with one another. Blockchain minig is simply the operation 
+    of recording varified transaction in the blockchain ledger.
+}
+
+Block{
+    A block  is a place in a blockchain where information is stored 
+    and encrypted Blocks are identified by long numbers that include 
+    encrypted transaction information from previous blocks and new 
+    blocks and new transaction information.
+}
+
+
+Gas Fee{
+    The term gas fee or gas gas fee crypto charges refers to that 
+    reward providese to the term miners on the blockchain that 
+    place or execute transaction on it.
+}
+
+
+Smart Contract{
+    Smart contracts are simply programs stored on a blockchain 
+    that run when predetermined conditions are mmet. They typically
+    are used to automate the execution of an agreement so that all
+    participation can be immidetily certain of the outcome without
+    any intermediary's involvement or time loss. THey can try
+    also automate a workflow, triggering the next action when 
+    conditions are met
+}
+
+
+Solidity{
+    Solidity is a contract-oriented, high level programing language
+     for implementing smart contracts. Solidity is highly influenced
+     by C++ Python and JavaScript And has been designed to target
+     the Etherrum Virtual Machine(EVm)
+
+}
+
+
+Ethereum networks{
+    Mainnet{
+
+    }
+
+    TestNet{
+        Rinkeby
+        Ropsten
+        GOeril
+        Kovan
+    }
+    Local BlockChain{
+
+    }
+}
+
+METAMASK{
+    web3 wallet Provider Holds Private keys
+}
+
+
+Infura{
+    Infura is a scalable back-end Infrastructure
+    for building daps on the Ethernet Blockchain. it is amethod 
+    for connecting to the ethereum network without having to run 
+    a full node, and the Service is provided by the company consensys.
+}
+
+
+HardHat{
+    HardHat is a developement environment for Etherum softwaree
+    it consists of different components for editi ng compiling, debugging,
+    and deploying your smart contracts and dApps all of which
+    work tighter to create a complete developement environment 
+}
+
+
+
+

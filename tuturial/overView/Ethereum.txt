@@ -1,0 +1,38 @@
+Ethereum Basics:-
+Ethereum is a decentrilized, open source blockChain with 
+smart contract functionality. Ether is the nativ 
+cryptocurrency of the platform . Among Cryptocurrencies, Ethers is second 
+only to Bitcoin in marketcapitalization.
+
+
+Ethereum Address {
+
+There are two types of address in ethereum :Externally owned address (EOS)
+ and Contract Address.
+
+ Externaly owned address refers to an account with a public and 
+ private key pair thet holds your funds.
+
+
+ Contract Address refers to the address hosting a collection 
+ of code on the Ethereum blockchain thet executes functions..
+ these functions of a contract adddress are executed when 
+ a transaction with associated input data (contract interaction) is made to it
+
+ the contract address is useully created ehen a contact is develpoment
+ deployed to the Ethereum Blockchain
+
+ Both Externally owned and Contract Address share the same formate of having 42 hexadecimal charecters
+  
+}
+
+GAS:-{
+    Gas is a unit of account within the EVM used in the calculation of a transaction 
+    fee which is the amount of ETH a transaction, sender must pay to the miner who
+    include the transaction in the blockChain
+
+}
+
+
+limitation of Bitcoin : - additionaly bitcoin has fixed supply of 21000000 coins ,
+whereas Ethr has no supply compact

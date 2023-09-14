@@ -1,0 +1,15 @@
+ Solidity{
+    Solidity is a contract-oriented, high-leevel programing 
+    language for implementing smart contracts. Solidity is highly 
+    influenced by C++ Python and javaScript and has been designed 
+    to target Ethereum Virtual Machine(EVM)
+ }
+
+
+ Smart Contract{
+    Smart contract are simply programs stored on blockChain 
+    that run when predetermined condition are met. They typically
+     are used to automate the executation of 
+     an agriment so  without any intermediary'simplyinvolvement or 
+     time loss
+ }

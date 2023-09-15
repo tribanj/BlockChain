@@ -10,6 +10,7 @@ contract functions {
         return 2 + 3;
         
     }
+    
 }
 
 
